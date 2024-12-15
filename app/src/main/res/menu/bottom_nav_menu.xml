@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_leaderboard"
+        android:icon="@drawable/baseline_local_taxi_24"
+        android:title="@string/ride" />
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@drawable/baseline_history_24"
+        android:title="@string/trip_history" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/account" />
+</menu>
